@@ -1,6 +1,10 @@
 # Finance Calculator
 
-For my first Capstone project, I have created a finance calculator 🧮, that allows the user to calculate the amount of interest they will earn on an investment 💷 or the amount they will have to repay on a home loan 🏡.
+*  For my first Capstone project, I have created a finance calculator.🧮
+
+*  Which allows the user to calculate the amount of interest they will earn on an investment.💷
+
+* Or the amount they will have to repay on a home loan.🏡
 
 
 
@@ -27,6 +31,6 @@ For my first Capstone project, I have created a finance calculator 🧮, that al
 I'm an aspiring software developer.
 
 
-I self-taught myself Photoshop and Illustrator, followed by Excel. 
-This then paved the way for learning to code Python and SQL, and this is just the beginning.
+I self taught myself Photoshop and Illustrator; followed by Excel.
+This then that paved the way to Python and SQL, and this is just the beginning.
 👩🏽‍💻👩🏽‍🎓🌍
